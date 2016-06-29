@@ -1,0 +1,14 @@
+layout_spectrum: 0.025355860125273466
+typography_spectrum: 0.16158784902654588
+color:
+  brandStrength: 0.20994687383063138
+  lightness: 0.36505126557312906
+  saturation: 0.6570351324044168
+  rhythmicContrast: 0.3188423898536712
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: blind tomes
